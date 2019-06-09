@@ -27,9 +27,5 @@ then
 		whois $ip| egrep -i "netname|orgname|organization|country|city|person|e-mail"
 	done >whoare-result
 fi	
-		
-#use egrep
-		#it would be nice to format the text like that
-#IP	orgname		country		e-mail		person		phone
 
 
