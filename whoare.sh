@@ -16,6 +16,8 @@ cat<<eof
 	it performs a whois operation on each ip and gives as output a brief 
 			summary whithout any noise. 
 				    Enjoy!
+				    
+	Author:Eico
 eof
 
 elif [ -n "$1" ]
